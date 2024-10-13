@@ -1,10 +1,16 @@
 {
+  "publisher": "AhmetTumis",
   "name": "json-debeautifier",
   "displayName": "JSON Debeautifier",
   "description": "Because sometimes you need an ugly one liner JSON",
-  "version": "0.0.1",
+  "version": "1.0.1",
+  "icon" : "./images/debeautIcon.png",
   "engines": {
     "vscode": "^1.94.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AhmetTumis/json-debeautifier"
   },
   "categories": [
     "Other"
