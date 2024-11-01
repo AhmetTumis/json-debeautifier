@@ -21,11 +21,14 @@ This extension does not contribute any additional settings at this time.
 
 ## Known Issues
 
-* If the selected text is not valid JSON, the extension will not function and will show an error message.
 * This extension does not support partial JSON objects (e.g., just a portion of a valid JSON file).
 
 
 ## Release Notes
+
+### 1.0.2
+
+* The extension now identifies and processes JSON objects and arrays within selected text.
 
 ### 1.0.1
 
