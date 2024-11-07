@@ -3,7 +3,7 @@
   "name": "json-debeautifier",
   "displayName": "JSON Debeautifier",
   "description": "Because sometimes you need an ugly one liner JSON",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "icon" : "./images/debeautIcon.png",
   "engines": {
     "vscode": "^1.94.0"
